@@ -26,6 +26,6 @@ I’m obsessed with **AI & ML** — building tools, analyzing code, and experime
 - 🤖 Heavy daily use of **Claude Code** with **MCP servers** (Context7, Exa.ai, Memory Bank, Playwright).  
 - 🧩 Develop **per-project LLMs**, mixing models like **Claude, OpenAI, Gemini**.  
 - 💻 Build with **React (Next.js)**, **Node.js + TypeScript**, and **Python**.  
-- ☁️ Manage infra with **Redis, Docker, Kubernetes, Terraform** for scalability and deployments.  
+- ☁️ Manage infra and data with **Redis, Postgres, Docker, Kubernetes, Terraform** for scalability and deployments.  
 
 ---
