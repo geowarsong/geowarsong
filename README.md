@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Levan a.k.a მაინერა 
+# 👋 Hi, I'm Levan a.k.a მაინერა  
 
 🚀 **Tech Leader | Ex-CTO | AI/ML Enthusiast**  
 
@@ -11,6 +11,7 @@ With **11+ years in tech**, I’ve grown from **Junior Software Engineer** to **
 - DORA Award — TBC Bank  
 - SAP Digital Excellence Award — Tegeta Holding  
 - MIT CXO Certification (CTO Leadership focus)  
+- Apple Design Award Winner (2025) — *Speechify iOS*  
 
 ---
 
