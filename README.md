@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Levan Mamulashvili  
 
-<!--
-**geowarsong/geowarsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Tech Leader | Ex-CTO | AI/ML Enthusiast**  
 
-Here are some ideas to get you started:
+For the past **7 years** I’ve been in **managerial roles** — from **Engineering Manager** to **CTO**, and now **Tribe Tech Lead at TBC Bank**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Recognitions:  
+- **Forbes 30 Under 30 (Technology, 2024)**  
+- **DORA Award** (under TBC Bank)  
+- **SAP Digital Excellence Award** (under Tegeta Holding)  
+- **MIT CXO Certification** (focused on CTO leadership)  
+
+💡 Beyond leadership, I’m obsessed with **AI & ML** — building tools, analyzing code, and experimenting daily to improve **SDLC speed, quality, and delivery** in enterprise environments.  
+
+---
