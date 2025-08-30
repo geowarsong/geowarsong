@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Levan Mamulashvili  
+# 👋 Hi, I'm Levan a.k.a მაინერა 
 
 🚀 **Tech Leader | Ex-CTO | AI/ML Enthusiast**  
 
